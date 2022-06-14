@@ -1,11 +1,65 @@
-[{
+[
+  {
     "NAMA": "Aamon",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Aamon.png"
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Aamon.png",
+    "URL":""
+  },
+  {
+    "NAMA": "Aamon",
+    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Duke_of_Shards.jpg/revision/latest/scale-to-width-down/250?cb=20220219033921",
+      "URL":""
+  },
+    {
+    "NAMA": "Aamon",
+    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Night%27s_Edge.jpg/revision/latest/scale-to-width-down/250?cb=20211201153222",
+  "URL":""
+  },
+    {
+    "NAMA": "Aamon",
+    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Mystery_Skin.jpg/revision/latest/scale-to-width-down/250?cb=20210521063347",
+      "URL":""
   },
   {
     "NAMA": "Alucard",
     "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Alucard.png"
+    ,
+     
   },
+    {
+    "NAMA": "Alucard",
+    "IMG": ""
+  },  
+  {
+    "NAMA": "Alucard",
+    "IMG": ""
+  },
+  {
+    "NAMA": "Alucard",
+    "IMG": ""
+  },  
+  {
+    "NAMA": "Alucard",
+    "IMG": ""
+  },  {
+    "NAMA": "Alucard",
+    "IMG": ""
+  },  
+  {
+    "NAMA": "Alucard",
+    "IMG": ""
+  }, 
+  {
+    "NAMA": "Alucard",
+    "IMG": ""
+  },  
+  {
+    "NAMA": "Alucard",
+    "IMG": ""
+  },  
+  {
+    "NAMA": "Alucard",
+    "IMG": ""
+  },  
   {
     "NAMA": "Fanny",
     "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Fanny.png"
@@ -564,6 +618,6 @@
   {
     "NAMA": "Uranus",
     "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Uranus.png"
-  },
-
+  }
+ 
 ]
