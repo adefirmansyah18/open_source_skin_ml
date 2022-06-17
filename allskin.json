@@ -1,751 +1,567 @@
 [
   {
     "NAMA": "Aamon",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Aamon.png",
-    "URL": "false"
-  },
-  {
-    "NAMA": "Aamon",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Duke_of_Shards.jpg/revision/latest/scale-to-width-down/250?cb=20220219033921",
-    "URL": ""
-  },
-  {
-    "NAMA": "Aamon",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Night%27s_Edge.jpg/revision/latest/scale-to-width-down/250?cb=20211201153222",
-    "URL": ""
-  },
-  {
-    "NAMA": "Aamon",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Mystery_Skin.jpg/revision/latest/scale-to-width-down/250?cb=20210521063347",
-    "URL": ""
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Aamon.png"
   },
   {
     "NAMA": "Alucard",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Alucard.png",
-    "URL": ""
-  },
-  {
-    "NAMA": "Alucard",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Lone_Hero_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cb=20211202052044",
-    "URL": ""
-  },
-  {
-    "NAMA": "Alucard",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Child_of_the_Fall.jpg/revision/latest/scale-to-width-down/250?cb=20211202051950",
-    "URL": ""
-  },
-  {
-    "NAMA": "Alucard",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Fiery_Inferno_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cb=20211202052014",
-    "URL": ""
-  },
-  {
-    "NAMA": "Alucard",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Romantic_Fantasy_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cb=20220214011135",
-    "URL": ""
-  },
-  {
-    "NAMA": "Alucard",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Viscount.jpg/revision/latest/scale-to-width-down/250?cb=20211202052115",
-    "URL": ""
-  },
-  {
-    "NAMA": "Alucard",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Empire_Agent.jpg/revision/latest/scale-to-width-down/250?cb=20211202052003",
-    "URL": ""
-  },
-  {
-    "NAMA": "Alucard",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Obsidian_Blade.jpg/revision/latest/scale-to-width-down/250?cb=20211202052102",
-    "URL": ""
-  },
-  {
-    "NAMA": "Alucard",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Lightborn_-_Striker.jpg/revision/latest/scale-to-width-down/250?cb=20211202052026",
-    "URL": ""
-  },
-  {
-    "NAMA": "Alucard",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Obi-wan_Kenobi.jpg/revision/latest/scale-to-width-down/250?cb=20220203122138",
-    "URL": ""
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Alucard.png"
   },
   {
     "NAMA": "Fanny",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Fanny.png",
-    "URL": ""
-  },
-  {
-    "NANA": "Fanny",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Campus_Youth_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cb=20211203003004",
-    "URL": ""
-  },
-  {
-    "NANA": "Fanny",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Punk_Princess_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cb=20211203003013",
-    "URL": ""
-  },
-  {
-    "NANA": "Fanny",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Skylark.jpg/revision/latest/scale-to-width-down/250?cb=20211203003037",
-    "URL": ""
-   },
-  {
-    "NANA": "Fanny",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Royal_Cavalry.jpg/revision/latest/scale-to-width-down/250?cb=20211203003047",
-    "URL": ""
-    },
-  {
-    "NANA": "Fanny",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Lifeguard_%28Fanny%29.jpg/revision/latest/scale-to-width-down/250?cb=20220204153241",
-    "URL": ""
-     },
-  {
-    "NANA": "Fanny",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Lightborn_-_Ranger.jpg/revision/latest/scale-to-width-down/250?cb=20211203003059",
-    "URL": ""
-      },
-  {
-    "NANA": "Fanny",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Christmas_Carnival_%28Fanny%29.jpg/revision/latest/scale-to-width-down/250?cb=20220204152648",
-    "URL": ""
-       },
-  {
-    "NANA": "Fanny",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Imperial_Warrior.jpg/revision/latest/scale-to-width-down/250?cb=20220214152411",
-    "URL": ""
-        },
-  {
-    "NANA": "Fanny",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Blade_of_Kibou.jpg/revision/latest/scale-to-width-down/250?cb=20220214153803",
-    "URL": ""
-         },
-  {
-    "NAMA": "Benedetta",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Benedetta.png",
-    "URL": ""
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Fanny.png"
   },
   {
     "NAMA": "Benedetta",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Honor_Blade.jpg/revision/latest/scale-to-width-down/250?cb=20210616160716",
-    "URL": ""
-  },
-  {
-    "NAMA": "Benedetta",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Death_Oath.jpg/revision/latest/scale-to-width-down/250?cb=20211215022129",
-    "URL": ""
-  },
-  {
-    "NAMA": "Benedetta",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Street_Blow.jpg/revision/latest/scale-to-width-down/250?cb=20220108154346",
-    "URL": ""
-  },
-  {
-    "NAMA": "Benedetta",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Moonblade.jpg/revision/latest/scale-to-width-down/250?cb=20220505121448",
-    "URL": ""
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Benedetta.png"
   },
   {
     "NAMA": "Gusion",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Gusion.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Gusion.png"
   },
-
-  {
-    "NAMA": "Gusion",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Moonlight_Sonata.jpg/revision/latest/scale-to-width-down/250?cb=20200922023915",
-    "URL": ""
-  },
-  {
-    "NAMA": "Gusion",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Cyber_Ops.jpg/revision/latest/scale-to-width-down/250?cb=20200922023849",
-    "URL": ""
-   },
-  {
-    "NAMA": "Gusion",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hairstylist.jpg/revision/latest/scale-to-width-down/250?cb=20200922023856",
-    "URL": ""
-    },
-  {
-    "NAMA": "Gusion",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Emperor_Scorpion.jpg/revision/latest/scale-to-width-down/250?cb=20200922023932",
-    "URL": ""
-     },
-  {
-    "NAMA": "Gusion",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Dangerous_Liaison.jpg/revision/latest/scale-to-width-down/250?cb=20220428084836",
-    "URL": ""
-      },
-  {
-    "NAMA": "Gusion",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Cosmic_Gleam.jpg/revision/latest/scale-to-width-down/250?cb=20200922023839",
-    "URL": ""
-       },
-  {
-    "NAMA": "Gusion",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/K%27.jpg/revision/latest/scale-to-width-down/250?cb=20210528141335",
-    "URL": ""
-        },
-  {
-    "NAMA": "Gusion",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Soul_Revelation.jpg/revision/latest/scale-to-width-down/250?cb=20211220021000",
-    "URL": ""
-         },
-  {
-    "NAMA": "Gusion",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Night_Owl.jpg/revision/latest/scale-to-width-down/250?cb=20210529085521",
-    "URL": ""
-          },
-  {
-    "NAMA": "Gusion",
-    "IMG": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hairstylist.jpg/revision/latest/scale-to-width-down/250?cb=20200922023856",
-    "URL": ""
-           },
-
   {
     "NAMA": "Hanzo",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Hanzo.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Hanzo.png"
   },
   {
     "NAMA": "Harley",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Harley.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Harley.png"
   },
   {
     "NAMA": "Hayabusa",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Hayabusa.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Hayabusa.png"
   },
   {
     "NAMA": "Helcurt",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Helcurt.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Helcurt.png"
   },
   {
     "NAMA": "Kadita",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Kadita.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Kadita.png"
   },
   {
     "NAMA": "Karina",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Karina.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Karina.png"
   },
   {
     "NAMA": "Lancelot",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Lancelot.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Lancelot.png"
   },
   {
     "NAMA": "Lesley",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Lesley.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Lesley.png"
   },
   {
     "NAMA": "Ling",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Ling.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Ling.png"
   },
   {
     "NAMA": "Mathilda",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Mathilda.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Mathilda.png"
   },
   {
     "NAMA": "Natalia",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Natalia.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Natalia.png"
   },
   {
     "NAMA": "Saber",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Saber.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Saber.png"
   },
   {
     "NAMA": "Selena",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Selena.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Selena.png"
   },
   {
     "NAMA": "Yi_Sun-shin",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Yi_Sun-shin.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Yi_Sun-shin.png"
   },
   {
     "NAMA": "Zilong",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Zilong.png"
+    "ASSASIN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/Zilong.png"
   },
-
-  {
+    {
     "NAMA": "Aldous",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Aldous.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Aldous.png"
   },
   {
     "NAMA": "Alpha",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Alpha.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Alpha.png"
   },
   {
     "NAMA": "Alucard",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Alucard.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Alucard.png"
   },
   {
     "NAMA": "Argus",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Argus.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Argus.png"
   },
   {
     "NAMA": "Aulus",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Aulus.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Aulus.png"
   },
   {
     "NAMA": "Badang",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Badang.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Badang.png"
   },
   {
     "NAMA": "Balmon",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Balmond.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Balmond.png"
   },
   {
     "NAMA": "Ben",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Bane.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Bane.png"
   },
   {
     "NAMA": "Barat",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Barats.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Barats.png"
   },
   {
     "NAMA": "Chou",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Chou.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Chou.png"
   },
   {
     "NAMA": "Dyrroth",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Dyrroth.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Dyrroth.png"
   },
   {
     "NAMA": "Freya",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Freya.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Freya.png"
   },
   {
     "NAMA": "Gatotkaca",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Gatotkaca.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Gatotkaca.png"
   },
   {
     "NAMA": "Guinevere",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Guinevere.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Guinevere.png"
   },
   {
     "NAMA": "Hilda",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Hilda.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Hilda.png"
   },
   {
     "NAMA": "Jawhead",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Jawhead.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Jawhead.png"
   },
   {
     "NAMA": "Kaja",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Kaja.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Kaja.png"
   },
   {
     "NAMA": "Khalid",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Khaleed.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Khaleed.png"
   },
   {
     "NAMA": "Lapu-Lapu",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Lapu-Lapu.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Lapu-Lapu.png"
   },
   {
     "NAMA": "Leomord",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Leomord.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Leomord.png"
   },
   {
     "NAMA": "Martis",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Martis.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Martis.png"
   },
   {
     "NAMA": "Masha",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Masha.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Masha.png"
   },
   {
     "NAMA": "Minsitthar",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Minsitthar.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Minsitthar.png"
   },
   {
     "NAMA": "Paquito",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Paquito.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Paquito.png"
   },
   {
     "NAMA": "Phoveus",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Phoveus.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Phoveus.png"
   },
   {
     "NAMA": "Roger",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Roger.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Roger.png"
   },
   {
     "NAMA": "Ruby",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Ruby.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Ruby.png"
   },
   {
     "NAMA": "Silvanna",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Silvanna.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Silvanna.png"
   },
   {
     "NAMA": "Matahari",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Sun.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Sun.png"
   },
   {
     "NAMA": "Terizla",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Terizla.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Terizla.png"
   },
   {
     "NAMA": "Thamuz",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Thamuz.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Thamuz.png"
   },
   {
     "NAMA": "X.Borg",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/X.Borg.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/X.Borg.png"
   },
   {
     "NAMA": "Yin",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Yin.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Yin.png"
   },
   {
     "NAMA": "Yu_Zhong",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Yu_Zhong.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Yu_Zhong.png"
   },
   {
     "NAMA": "Zilong",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Zilong.png"
+    "FIGHTER": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_FIGHTER/Zilong.png"
   },
-
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Alice.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Alice.png",
     "NAMA": "Alice"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Aurora.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Aurora.png",
     "NAMA": "Aurora"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Bane.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Bane.png",
     "NAMA": "Bane"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Cecilion.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Cecilion.png",
     "NAMA": "Cecilion"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Chang%2527e.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Chang%2527e.png",
     "NAMA": "Chang%2527e"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Cyclops.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Cyclops.png",
     "NAMA": "Cyclops"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Esmeralda.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Esmeralda.png",
     "NAMA": "Esmeralda"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Eudora.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Eudora.png",
     "NAMA": "Eudora"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Faramis.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Faramis.png",
     "NAMA": "Faramis"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Gord.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Gord.png",
     "NAMA": "Gord"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Harith.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Harith.png",
     "NAMA": "Harith"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Harley.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Harley.png",
     "NAMA": "Harley"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Kadita.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Kadita.png",
     "NAMA": "Kadita"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Kagura.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Kagura.png",
     "NAMA": "Kagura"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Lunox.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Lunox.png",
     "NAMA": "Lunox"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Lylia.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Lylia.png",
     "NAMA": "Lylia"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Nana.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Nana.png",
     "NAMA": "Nana"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Luo_Yi.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Luo_Yi.png",
     "NAMA": "Luo_Yi"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Odette.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Odette.png",
     "NAMA": "Odette"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Pharsa.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Pharsa.png",
     "NAMA": "Pharsa"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Selena.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Selena.png",
     "NAMA": "Selena"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Vale.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Vale.png",
     "NAMA": "Vale"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Valentina.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Valentina.png",
     "NAMA": "Valentina"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Valir.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Valir.png",
     "NAMA": "Valir"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Vexana.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Vexana.png",
     "NAMA": "Vexana"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Yve.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Yve.png",
     "NAMA": "Yve"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Zhask.png",
+    "MAGE": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MAGE/Zhask.png",
     "NAMA": "Zhask"
   },
-
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Beatrix.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Beatrix.png",
     "NAMA": "Beatrix"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Brody.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Brody.png",
     "NAMA": "Brody"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Bruno.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Bruno.png",
     "NAMA": "Bruno"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Claude.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Claude.png",
     "NAMA": "Claude"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Clint.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Clint.png",
     "NAMA": "Clint"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Edith.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Edith.png",
     "NAMA": "Edith"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Granger.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Granger.png",
     "NAMA": "Granger"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Hanabi.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Hanabi.png",
     "NAMA": "Hanabi"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Irithel.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Irithel.png",
     "NAMA": "Irithel"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Karrie.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Karrie.png",
     "NAMA": "Karrie"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Kimmy.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Kimmy.png",
     "NAMA": "Kimmy"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Layla.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Layla.png",
     "NAMA": "Laila"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Lesley.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Lesley.png",
     "NAMA": "Lesley"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Miya.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Miya.png",
     "NAMA": "Miya"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Moskov.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Moskov.png",
     "NAMA": "Moskov"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Popol_and_Kupa.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Popol_and_Kupa.png",
     "NAMA": "Popol_dan_Kupa"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Roger.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Roger.png",
     "NAMA": "Roger"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Wanwan.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Wanwan.png",
     "NAMA": "Wanwan"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Yi_Sun-shin.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Yi_Sun-shin.png",
     "NAMA": "Yi_Sun-shin"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Natan.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Natan.png",
     "NAMA": "Natan"
   },
   {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Melissa.png",
+    "MARKSMAN": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_MARKSMAN/Melissa.png",
     "NAMA": "Melissa"
   },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Akai.png",
-    "NAMA": "Akai"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Angela.png",
-    "NAMA": "Angela"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Atlas.png",
-    "NAMA": "Atlas"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Carmilla.png",
-    "NAMA": "Carmilla"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Diggie.png",
-    "NAMA": "Diggie"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Estes.png",
-    "NAMA": "Estes"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Faramis.png",
-    "NAMA": "Faramis"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Floryn.png",
-    "NAMA": "Floryn"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Franco.png",
-    "NAMA": "Franco"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Kaja.png",
-    "NAMA": "Kaja"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Khufra.png",
-    "NAMA": "Khufra"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Lolita.png",
-    "NAMA": "Lolita"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Mathilda.png",
-    "NAMA": "Mathilda"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Minotaur.png",
-    "NAMA": "Minotaur"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Nana.png",
-    "NAMA": "Nana"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Rafaela.png",
-    "NAMA": "Rafaela"
-  },
-  {
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Tigreal.png",
-    "NAMA": "Tigreal"
-  },
-  {
+   {
     "NAMA": "Akai",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Akai.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Akai.png"
   },
   {
     "NAMA": "Atlas",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Atlas.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Atlas.png"
   },
   {
     "NAMA": "Alice",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Alice.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Alice.png"
   },
   {
     "NAMA": "Barats",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Barats.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Barats.png"
   },
   {
     "NAMA": "Baxia",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Baxia.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Baxia.png"
   },
   {
     "NAMA": "Belerick",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Belerick.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Belerick.png"
   },
   {
     "NAMA": "Edith",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Edith.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Edith.png"
   },
   {
     "NAMA": "Esmeralda",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Esmeralda.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Esmeralda.png"
   },
   {
     "NAMA": "Franco",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Franco.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Franco.png"
   },
   {
     "NAMA": "Gloo",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Gloo.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Gloo.png"
   },
   {
     "NAMA": "Gatotkaca",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Gatotkaca.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Gatotkaca.png"
   },
   {
     "NAMA": "Grock",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Grock.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Grock.png"
   },
   {
     "NAMA": "Hilda",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Hilda.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Hilda.png"
   },
   {
     "NAMA": "Hylos",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Hylos.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Hylos.png"
   },
   {
     "NAMA": "Johnson",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Johnson.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Johnson.png"
   },
   {
     "NAMA": "Khufra",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Khufra.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Khufra.png"
   },
   {
     "NAMA": "Lolita",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Lolita.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Lolita.png"
   },
   {
     "NAMA": "Minotaur",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Minotaur.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Minotaur.png"
   },
   {
     "NAMA": "Ruby",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Ruby.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Ruby.png"
   },
   {
     "NAMA": "Tigreal",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Tigreal.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Tigreal.png"
   },
   {
     "NAMA": "Uranus",
-    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Uranus.png"
+    "TANK": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_TANK/Uranus.png"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Akai.png",
+    "NAMA": "Akai"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Angela.png",
+    "NAMA": "Angela"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Atlas.png",
+    "NAMA": "Atlas"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Carmilla.png",
+    "NAMA": "Carmilla"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Diggie.png",
+    "NAMA": "Diggie"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Estes.png",
+    "NAMA": "Estes"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Faramis.png",
+    "NAMA": "Faramis"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Floryn.png",
+    "NAMA": "Floryn"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Franco.png",
+    "NAMA": "Franco"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Kaja.png",
+    "NAMA": "Kaja"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Khufra.png",
+    "NAMA": "Khufra"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Lolita.png",
+    "NAMA": "Lolita"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Mathilda.png",
+    "NAMA": "Mathilda"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Minotaur.png",
+    "NAMA": "Minotaur"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Nana.png",
+    "NAMA": "Nana"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Rafaela.png",
+    "NAMA": "Rafaela"
+  },
+  {
+    "SUPPORT": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_SUPPORT/Tigreal.png",
+    "NAMA": "Tigreal"
   }
-
+  
 ]
